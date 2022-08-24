@@ -1,0 +1,15 @@
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/bin/Debug/net6.0/MyFirstProject
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/bin/Debug/net6.0/MyFirstProject.deps.json
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/bin/Debug/net6.0/MyFirstProject.runtimeconfig.json
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/bin/Debug/net6.0/MyFirstProject.dll
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/bin/Debug/net6.0/MyFirstProject.pdb
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/MyFirstProject.csproj.AssemblyReference.cache
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/MyFirstProject.AssemblyInfo.cs
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/MyFirstProject.dll
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/refint/MyFirstProject.dll
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/MyFirstProject.pdb
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/MyFirstProject.genruntimeconfig.cache
+/Users/adinashby/Programs/MyFirstProject/MyFirstProject/obj/Debug/net6.0/ref/MyFirstProject.dll
