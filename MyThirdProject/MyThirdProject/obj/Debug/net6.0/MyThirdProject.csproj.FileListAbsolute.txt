@@ -1,0 +1,15 @@
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/bin/Debug/net6.0/MyThirdProject
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/bin/Debug/net6.0/MyThirdProject.deps.json
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/bin/Debug/net6.0/MyThirdProject.runtimeconfig.json
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/bin/Debug/net6.0/MyThirdProject.dll
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/bin/Debug/net6.0/MyThirdProject.pdb
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/MyThirdProject.csproj.AssemblyReference.cache
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/MyThirdProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/MyThirdProject.AssemblyInfoInputs.cache
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/MyThirdProject.AssemblyInfo.cs
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/MyThirdProject.csproj.CoreCompileInputs.cache
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/MyThirdProject.dll
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/refint/MyThirdProject.dll
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/MyThirdProject.pdb
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/MyThirdProject.genruntimeconfig.cache
+/Users/adinashby/Projects/MyThirdProject/MyThirdProject/obj/Debug/net6.0/ref/MyThirdProject.dll

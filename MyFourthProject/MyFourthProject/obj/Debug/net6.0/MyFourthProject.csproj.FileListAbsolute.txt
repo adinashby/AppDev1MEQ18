@@ -1,0 +1,15 @@
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/bin/Debug/net6.0/MyFourthProject
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/bin/Debug/net6.0/MyFourthProject.deps.json
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/bin/Debug/net6.0/MyFourthProject.runtimeconfig.json
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/bin/Debug/net6.0/MyFourthProject.dll
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/bin/Debug/net6.0/MyFourthProject.pdb
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/MyFourthProject.csproj.AssemblyReference.cache
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/MyFourthProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/MyFourthProject.AssemblyInfoInputs.cache
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/MyFourthProject.AssemblyInfo.cs
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/MyFourthProject.csproj.CoreCompileInputs.cache
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/MyFourthProject.dll
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/refint/MyFourthProject.dll
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/MyFourthProject.pdb
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/MyFourthProject.genruntimeconfig.cache
+/Users/adinashby/Projects/MyFourthProject/MyFourthProject/obj/Debug/net6.0/ref/MyFourthProject.dll
