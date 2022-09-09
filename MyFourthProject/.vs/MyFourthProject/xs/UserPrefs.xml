@@ -1,16 +1,20 @@
 ﻿<Properties StartupConfiguration="{1E990F31-77E2-48C8-A095-DE7DF037D9CE}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyFourthProject/Program.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFourthProject/MyTests.cs">
     <Files>
-      <File FileName="MyFourthProject/Program.cs" Line="15" Column="39" />
-      <File FileName="MyFourthProject/MyTests.cs" Line="54" Column="1" />
+      <File FileName="MyFourthProject/Program.cs" Line="15" Column="36" />
+      <File FileName="MyFourthProject/MyTests.cs" Line="68" Column="69" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyFourthProject" expanded="True">
             <Node name="MyFourthProject" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="MyTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -20,10 +24,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.MyFourthProject PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

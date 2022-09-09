@@ -1,0 +1,15 @@
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/bin/Debug/net6.0/MyFifthProject
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/bin/Debug/net6.0/MyFifthProject.deps.json
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/bin/Debug/net6.0/MyFifthProject.runtimeconfig.json
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/bin/Debug/net6.0/MyFifthProject.dll
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/bin/Debug/net6.0/MyFifthProject.pdb
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/MyFifthProject.csproj.AssemblyReference.cache
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/MyFifthProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/MyFifthProject.AssemblyInfoInputs.cache
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/MyFifthProject.AssemblyInfo.cs
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/MyFifthProject.csproj.CoreCompileInputs.cache
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/MyFifthProject.dll
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/refint/MyFifthProject.dll
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/MyFifthProject.pdb
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/MyFifthProject.genruntimeconfig.cache
+/Users/adinashby/Projects/MyFifthProject/MyFifthProject/obj/Debug/net6.0/ref/MyFifthProject.dll

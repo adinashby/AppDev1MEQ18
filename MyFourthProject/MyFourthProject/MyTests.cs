@@ -47,14 +47,34 @@ namespace MyFourthProject
             //    Directory.CreateDirectory(newPath);
             //}
 
-            string rootPath = @"/Users/adinashby/Desktop/MyFolder/Folder1";
 
-            string[] files = Directory.GetFiles(rootPath);
-            string destinationFolder = @"/Users/adinashby/Desktop/MyFolder/Folder3";
+
+            //string[] files = Directory.GetFiles(rootPath);
+            //string destinationFolder = @"/Users/adinashby/Desktop/MyFolder/Folder3";
+
+            //foreach (string file in files)
+            //{
+            //    File.Copy(file, $"{destinationFolder}/{Path.GetFileName(file)}");
+            //}
+
+            //foreach (string file in files)
+            //{
+            //    File.Move(file, $"{destinationFolder}/{Path.GetFileName(file)}");
+            //}
+
+            string rootPath = @"/Users/adinashby/Desktop/MyFolder";
+
+            string[] dirs = Directory.GetDirectories(rootPath, "Folder*", SearchOption.AllDirectories);
+            string[] files = Directory.GetFiles(rootPath, "test*.txt", SearchOption.AllDirectories);
+
+            //foreach (string dir in dirs)
+            //{
+            //    Console.WriteLine(dir);
+            //}
 
             foreach (string file in files)
             {
-                File.Copy(file, $"{destinationFolder}/{Path.GetFileName(file)}");
+                Console.WriteLine(file);
             }
 
 
