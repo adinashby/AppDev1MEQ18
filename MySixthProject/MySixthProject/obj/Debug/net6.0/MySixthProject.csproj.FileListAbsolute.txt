@@ -1,0 +1,15 @@
+/Users/adinashby/Projects/MySixthProject/MySixthProject/bin/Debug/net6.0/MySixthProject
+/Users/adinashby/Projects/MySixthProject/MySixthProject/bin/Debug/net6.0/MySixthProject.deps.json
+/Users/adinashby/Projects/MySixthProject/MySixthProject/bin/Debug/net6.0/MySixthProject.runtimeconfig.json
+/Users/adinashby/Projects/MySixthProject/MySixthProject/bin/Debug/net6.0/MySixthProject.dll
+/Users/adinashby/Projects/MySixthProject/MySixthProject/bin/Debug/net6.0/MySixthProject.pdb
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/MySixthProject.csproj.AssemblyReference.cache
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/MySixthProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/MySixthProject.AssemblyInfoInputs.cache
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/MySixthProject.AssemblyInfo.cs
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/MySixthProject.csproj.CoreCompileInputs.cache
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/MySixthProject.dll
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/refint/MySixthProject.dll
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/MySixthProject.pdb
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/MySixthProject.genruntimeconfig.cache
+/Users/adinashby/Projects/MySixthProject/MySixthProject/obj/Debug/net6.0/ref/MySixthProject.dll
