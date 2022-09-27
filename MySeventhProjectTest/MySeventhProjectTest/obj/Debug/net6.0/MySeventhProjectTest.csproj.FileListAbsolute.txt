@@ -1,0 +1,15 @@
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/bin/Debug/net6.0/MySeventhProjectTest
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/bin/Debug/net6.0/MySeventhProjectTest.deps.json
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/bin/Debug/net6.0/MySeventhProjectTest.runtimeconfig.json
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/bin/Debug/net6.0/MySeventhProjectTest.dll
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/bin/Debug/net6.0/MySeventhProjectTest.pdb
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/MySeventhProjectTest.csproj.AssemblyReference.cache
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/MySeventhProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/MySeventhProjectTest.AssemblyInfoInputs.cache
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/MySeventhProjectTest.AssemblyInfo.cs
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/MySeventhProjectTest.csproj.CoreCompileInputs.cache
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/MySeventhProjectTest.dll
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/refint/MySeventhProjectTest.dll
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/MySeventhProjectTest.pdb
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/MySeventhProjectTest.genruntimeconfig.cache
+/Users/adinashby/Projects/MySeventhProjectTest/MySeventhProjectTest/obj/Debug/net6.0/ref/MySeventhProjectTest.dll
