@@ -1,0 +1,42 @@
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/API_Csharp.exe
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/API_Csharp.deps.json
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/API_Csharp.runtimeconfig.json
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/API_Csharp.dll
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/API_Csharp.pdb
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/System.Net.Http.Extensions.dll
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/bin/Debug/net6.0/System.Net.Http.Primitives.dll
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/API_Csharp.csproj.AssemblyReference.cache
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/API_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/API_Csharp.AssemblyInfoInputs.cache
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/API_Csharp.AssemblyInfo.cs
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/API_Csharp.csproj.CoreCompileInputs.cache
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/API_Csharp.csproj.CopyComplete
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/API_Csharp.dll
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/refint/API_Csharp.dll
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/API_Csharp.pdb
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/API_Csharp.genruntimeconfig.cache
+C:/Users/User/source/repos/C sharp_firebase projects/API_Csharp/obj/Debug/net6.0/ref/API_Csharp.dll
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/API_Csharp
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/API_Csharp.deps.json
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/API_Csharp.runtimeconfig.json
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/API_Csharp.dll
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/API_Csharp.pdb
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/System.Net.Http.Extensions.dll
+/Users/adinashby/Desktop/API_Csharp/bin/Debug/net6.0/System.Net.Http.Primitives.dll
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/API_Csharp.csproj.AssemblyReference.cache
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/API_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/API_Csharp.AssemblyInfoInputs.cache
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/API_Csharp.AssemblyInfo.cs
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/API_Csharp.csproj.CoreCompileInputs.cache
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/API_Csharp.csproj.CopyComplete
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/API_Csharp.dll
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/refint/API_Csharp.dll
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/API_Csharp.pdb
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/API_Csharp.genruntimeconfig.cache
+/Users/adinashby/Desktop/API_Csharp/obj/Debug/net6.0/ref/API_Csharp.dll
